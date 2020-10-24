@@ -1,1 +1,4 @@
-
+1. git add nazwapliku 
+dodaje plik lub folder do poczekalni repozytorium
+2. git commit -m "opis commita"
+dodaje nowy commit
